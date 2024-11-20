@@ -108,7 +108,7 @@ ImgPIn — это настольное приложение на базе PyQt5,
 - **Профили пользователей**: Возможность сохранения настроек пользователей для разных сессий.
 
 ## Автор
-- **Автор**: Azziomv.dev
+- **Автор**: Azzimov.dev
 - **GitHub**: [Vanagandr111](https://github.com/Vanagandr111)
 - **Исходный код**: [Репозиторий ImgPIn](https://github.com/Vanagandr111/ImgPIn)
 
@@ -134,7 +134,7 @@ ImgPIn is a PyQt5-based desktop application designed to allow users to display a
 
 ## Author
 
-- **Author**: Azziomv.dev
+- **Author**: Azzimov.dev
 - **GitHub**: [Vanagandr111](https://github.com/Vanagandr111)
 - **Source Code**: [ImgPIn Repository](https://github.com/Vanagandr111/ImgPIn)
 
