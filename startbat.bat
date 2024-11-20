@@ -1,0 +1,2 @@
+python imgPIN.py
+pause
