@@ -1,7 +1,7 @@
 # ImgPIn
 Краткий гайд для пользователя (User Guide)
 
-##Русский
+## Русский
 
 Запуск: Откройте imgPIN.py/start.bat/imgPIN.exe для настройки и отображения изображений.
 
@@ -17,7 +17,7 @@
 
 Формат .img2: Используйте для избежания автоматического добавления изображения в системные библиотеки Windows.
 
-##English
+## English
 
 Launch: Open imgPIN.py to configure and display images.
 
